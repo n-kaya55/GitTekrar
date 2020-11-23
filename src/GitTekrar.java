@@ -6,7 +6,7 @@ public class GitTekrar {
 		System.out.println("birinci adim");
 		System.out.println("ikinci adim");
 		System.out.println("githubdan gelen");
-		
+		System.out.println("eclipsden gelen");
 		
 		
 	}
