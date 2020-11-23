@@ -5,6 +5,7 @@ public class GitTekrar {
 		// TODO Auto-generated method stub
 		System.out.println("birinci adim");
 		System.out.println("ikinci adim");
+		System.out.println("githubdan gelen");
 		
 		
 		
